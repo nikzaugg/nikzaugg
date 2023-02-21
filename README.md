@@ -1,4 +1,4 @@
-### Hey there, I am Nik
+## Hey there, I am Nik
 
 🇨🇭 I am a software engineer 👨🏼‍💻  from Zurich, Switzerland
 
