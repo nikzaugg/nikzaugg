@@ -13,3 +13,7 @@
 🌱 I believe going plant-based is the future.
 
 📫 Hit me up if you want to know more. Looking for work starting in May 2023.
+
+---
+
+[![Linkedin: nikzaugg](https://img.shields.io/badge/-nikzaugg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikzaugg/)](https://www.linkedin.com/in/nikzaugg/) [![GitHub stefguler](https://img.shields.io/github/followers/nikzaugg?label=follow%20me%21&style=social)](https://github.com/nikzaugg)
