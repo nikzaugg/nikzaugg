@@ -6,7 +6,7 @@
 
 🧑‍💼 From time to time, I do some work at [**zaeck**](https://zaeck.ch/en), where we are building [meine-traumhochzeit.ch](https://meine-traumhochzeit.ch/), a platform to search for and book wedding locations and services.
 
-🗺️ Currently backpacking around the world. 
+🗺️ Currently travelling around the world. 
  
 ⛰️ Recently summitted Huayna Potosí in Bolivia (6'088m tall).
 
