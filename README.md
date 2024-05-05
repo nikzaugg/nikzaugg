@@ -8,12 +8,6 @@
 
 🧑‍💼 From time to time, I do some work at [**zaeck**](https://zaeck.ch/en), where we are building [meine-traumhochzeit.ch](https://meine-traumhochzeit.ch/), a platform to search for and book wedding locations and services.
 
-🗺️ Recently travelled around the world. 
- 
-⛰️ Summitted Huayna Potosí in Bolivia (6'088m tall).
-
-🌱 I believe going plant-based is the future.
-
 📫 Hit me up if you want to know more!
 
 ---
